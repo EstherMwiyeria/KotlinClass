@@ -4,6 +4,10 @@ fun main() {
 
     println(getAverage(2,3,4,5,6))
 
+//4. You are creating an app to capture a person’s records. Some of the data you will
+//capture includes full name, age, phone number, email, weight in kg, and citizen. For the
+//citizen field, you will track whether a student is a Ugandan or not. (3 points)
+
     var name: String="Mary Jane"
     println(name)
     var age: Byte = 23
@@ -39,7 +43,5 @@ fun getAverage(num5: Int,num6: Int,num7: Int,num8:Int,num9: Int): Int{
 
 }
 
-//4. You are creating an app to capture a person’s records. Some of the data you will
-//capture includes full name, age, phone number, email, weight in kg, and citizen. For the
-//citizen field, you will track whether a student is a Ugandan or not. (3 points)
+
 
